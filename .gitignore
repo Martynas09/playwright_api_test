@@ -1,0 +1,9 @@
+# Ignore Python cache directories
+__pycache__/
+tests/__pycache__/
+.pytest_cache/
+
+# Ignore Python bytecode files
+*.pyc
+*.pyo
+.env
